@@ -1,0 +1,3 @@
+// ... dentro de StyleSheet.create no App.js
+ordenacaoContainer: { flexDirection: 'row', justifyContent: 'space-around', marginHorizontal: 15, marginBottom: 10, flexWrap: 'wrap' },
+graficoSelecaoContainer: { flexDirection: 'row', justifyContent: 'space-around', marginHorizontal: 15, marginBottom: 10, marginTop: 10, flexWrap: 'wrap' },
